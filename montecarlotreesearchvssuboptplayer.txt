@@ -1,0 +1,21 @@
+Monte Carlo Tree Search VS Suboptimal Player
+White ply depth: 0 vs. Suboptimal Opponent
+White win percentage: 0.994
+Black win percentage: 0.006
+Avg. nodes expanded: 111.183
+Avg. nodes in memory: 335.377
+White ply depth: 2 vs. Suboptimal Opponent
+White win percentage: 0.951
+Black win percentage: 0.049
+Avg. nodes expanded: 990.342
+Avg. nodes in memory: 3855.342
+White ply depth: 4 vs. Suboptimal Opponent
+White win percentage: 0.938
+Black win percentage: 0.062
+Avg. nodes expanded: 14267.651
+Avg. nodes in memory: 55418.895
+White ply depth: 6 vs. Suboptimal Opponent
+White win percentage: 0.906
+Black win percentage: 0.094
+Avg. nodes expanded: 214760.98
+Avg. nodes in memory: 847248.0

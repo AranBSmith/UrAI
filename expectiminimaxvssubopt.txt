@@ -1,0 +1,26 @@
+Expectivminimax vs Suboptimal opponent
+Optimal player's ply depth: 0
+   Optimal player win percentage: 0.85
+Suboptimal player win percentage: 0.15
+Avg. nodes expanded: 112.822
+Avg. nodes in memory: 360.202
+Optimal player's ply depth: 2
+   Optimal player win percentage: 0.839
+Suboptimal player win percentage: 0.161
+Avg. nodes expanded: 966.567
+Avg. nodes in memory: 3836.876
+Optimal player's ply depth: 4
+   Optimal player win percentage: 0.845
+Suboptimal player win percentage: 0.155
+Avg. nodes expanded: 7127.103
+Avg. nodes in memory: 31976.844
+Optimal player's ply depth: 6
+   Optimal player win percentage: 0.835
+Suboptimal player win percentage: 0.165
+Avg. nodes expanded: 56248.543
+Avg. nodes in memory: 248068.14
+Optimal player's ply depth: 8
+   Optimal player win percentage: 0.86
+Suboptimal player win percentage: 0.14
+Avg. nodes expanded: 477335.1
+Avg. nodes in memory: 2153609.5

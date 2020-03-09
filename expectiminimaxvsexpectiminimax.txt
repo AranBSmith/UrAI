@@ -1,0 +1,51 @@
+Expectiminimax vs Expectiminimax
+White ply depth: 0 Black ply depth: 0
+White win percentage: 0.534
+Black win percentage: 0.466
+Avg. nodes expanded: 99.042
+Avg. nodes in memory: 333.465
+White ply depth: 2 Black ply depth: 2
+White win percentage: 0.5
+Black win percentage: 0.5
+Avg. nodes expanded: 2058.271
+Avg. nodes in memory: 8343.919
+White ply depth: 4 Black ply depth: 4
+White win percentage: 0.473
+Black win percentage: 0.527
+Avg. nodes expanded: 17471.06
+Avg. nodes in memory: 73811.305
+White ply depth: 2 Black ply depth: 0
+White win percentage: 0.7
+Black win percentage: 0.3
+Avg. nodes expanded: 1005.678
+Avg. nodes in memory: 4276.545
+White ply depth: 4 Black ply depth: 2
+White win percentage: 0.511
+Black win percentage: 0.489
+Avg. nodes expanded: 10257.058
+Avg. nodes in memory: 43458.67
+White ply depth: 4 Black ply depth: 0
+White win percentage: 0.678
+Black win percentage: 0.322
+Avg. nodes expanded: 9108.412
+Avg. nodes in memory: 40154.605
+White ply depth: 6 Black ply depth: 0
+White win percentage: 0.559
+Black win percentage: 0.441
+Avg. nodes expanded: 74314.69
+Avg. nodes in memory: 326576.7
+White ply depth: 0 Black ply depth: 2
+White win percentage: 0.338
+Black win percentage: 0.662
+Avg. nodes expanded: 996.198
+Avg. nodes in memory: 4210.173
+White ply depth: 0 Black ply depth: 4
+White win percentage: 0.335
+Black win percentage: 0.665
+Avg. nodes expanded: 9146.621
+Avg. nodes in memory: 39920.816
+White ply depth: 0 Black ply depth: 6
+White win percentage: 0.473
+Black win percentage: 0.527
+Avg. nodes expanded: 75276.61
+Avg. nodes in memory: 330592.22
